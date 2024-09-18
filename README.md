@@ -8,4 +8,4 @@ Interface web do projeto Organizador de viagens
 - [ReactJS]()
 - [BiomeJS](https://biomejs.dev/guides/getting-started/)
 - [Zod](https://zod.dev/)
-- [TailwindCSS]()
+- [TailwindCSS](https://tailwindcss.com/docs/guides/vite)
