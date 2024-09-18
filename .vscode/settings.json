@@ -1,4 +1,6 @@
 {
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "biomejs.biome"
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "biomejs.biome",
+  // TailwindCSS
+  "css.lint.unknownAtRules": "ignore"
 }
